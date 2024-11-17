@@ -12,6 +12,7 @@ env/
 .myenv/
 /myenv
 virtualenv/
+myenv
 
 # Pytest cache
 .pytest_cache/
